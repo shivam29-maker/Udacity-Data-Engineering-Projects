@@ -57,3 +57,6 @@ Running spark job (Before running job make sure EMR Role have access to s3)
 4.  Load it back to S3
     
     Writes them to partitioned parquet files in table directories on S3.
+
+
+I am writing a dummy line to just do things
